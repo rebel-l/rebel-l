@@ -1,4 +1,4 @@
-### Welcome to my repository &#x1f596;
+### Welcome to my repositories &#x1f596;
 
 <!--
 **rebel-l/rebel-l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
